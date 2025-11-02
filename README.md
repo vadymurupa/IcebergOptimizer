@@ -1,2 +1,2 @@
-# IceRust
+# IcebergOptimizer
 Rust Iceberg Optimizer
